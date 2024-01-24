@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Selected courses where I served as a teaching assistant in the School of Engineering, CUHK. # Materials for courses you taught. Replace this text with your description.
+description: selected courses where I served as a teaching assistant in the School of Engineering, CUHK. # Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 5
 ---
