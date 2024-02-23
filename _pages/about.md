@@ -7,7 +7,7 @@ subtitle: huangjing@mae.cuhk.edu.hk<br>
 
 profile:
   align: right
-  image: Jing_grad_pic_0.jpeg #Jing_pic_0.JPG
+  image: Jing_Casual_0.jpg #Jing_grad_pic_0.jpeg #Jing_pic_0.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>G Floor, 20 E</p>
