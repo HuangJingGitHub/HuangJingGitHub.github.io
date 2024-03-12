@@ -29,7 +29,9 @@ My research interests mainly lie in robot manipulation, robot vision, and motion
 **Professional Service**<br>
 Reviewer: RAL, ICRA, IROS, JMR.
 
-[CV](https://drive.google.com/file/d/1s_Qe1WnfCbCJnpaWXKHnYQLrSlsy_3qI/view?usp=drive_link) / [GitHub](https://github.com/HuangJingGitHub) / [LinkedIn](https://linkedin.com/in/huangjingonly)
+<!-- [CV](https://drive.google.com/file/d/1s_Qe1WnfCbCJnpaWXKHnYQLrSlsy_3qI/view?usp=drive_link) / [GitHub](https://github.com/HuangJingGitHub) / [LinkedIn](https://linkedin.com/in/huangjingonly) --->
+
+<p><a target = "_blank" href = "/assets/pdf/Personal_CV_Jing Huang_CUHK_0.pdf">CV</a> / <a target = "_blank" href = "https://github.com/HuangJingGitHub">GitHub</a> / <a target = "_blank" href = "https://linkedin.com/in/huangjingonly">LinkedIn</a></p>
 
 <!---Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
