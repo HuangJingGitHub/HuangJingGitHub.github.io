@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: huangjing@mae.cuhk.edu.hk<br>
-          huangjingonly@gmail.com
+subtitle: huangjing@mae.cuhk.edu.hk
 
 profile:
   align: right
