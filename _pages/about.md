@@ -23,7 +23,7 @@ I am currently a Postdoc Researcher at the Multi-Scale Medical Robotics Center, 
 
 I completed my Ph.D. in the Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong in Dec. 2022, under Sam's supervision. During my Ph.D. period, I worked as a member of the [Bioinspired Robotics & Medical Technology Group (BMT)](https://biomedirobotics.com/). Before that, I obtained my bachelor's degree in mechanical and automotive engineering from Tsinghua University in 2017.
 
-My research interests mainly lie in robot manipulation, robot vision, and motion and path planning. Particularly, my research used to focus on manipulation of deformable objects in unstructured conditions of grasping, contacts, and environmental setups.
+My research interests mainly lie in robot manipulation, robot vision, and motion and path planning. Particularly, my research used to focus on manipulation of deformable objects in unstructured conditions of grasping, contacts, and environments. I am now actively exploring techniques that could enable more general deployment of robotics, including fundamental planning methods and robot learning approaches.
 
 **Professional Service**<br>
 Reviewer: RAL, ICRA, IROS, JMR.
