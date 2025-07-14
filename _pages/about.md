@@ -19,11 +19,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a Postdoc Researcher at the Multi-Scale Medical Robotics Center, Hong Kong, and also with the Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong, working with Prof. [Kwok Wai Samuel Au (Sam)](https://biomedirobotics.com/au-kwok-wai-samuel/). 
+I was a Postdoc Researcher at the Multi-Scale Medical Robotics Center, Hong Kong, and also with the Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong, working with Prof. [Kwok Wai Samuel Au (Sam)](https://biomedirobotics.com/au-kwok-wai-samuel/). 
 
 I completed my Ph.D. in the Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong 2023, under Sam's supervision. During my Ph.D. period, I worked as a member of the [Bioinspired Robotics & Medical Technology Group (BMT)](https://biomedirobotics.com/). Before that, I obtained my bachelor's degree in mechanical and automotive engineering from Tsinghua University in 2017.
 
-My research interests mainly lie in robot manipulation, robot vision, and motion and path planning. Particularly, my research used to focus on manipulation of deformable objects in unstructured conditions of grasping, contacts, and environments. I am now actively exploring techniques that could enable more general deployment of robotics, including fundamental planning and learning approaches.
+My research interests mainly lie in robot manipulation, robot vision, and motion and path planning. Particularly, my research used to focus on manipulation of deformable objects in unstructured conditions of grasping, contacts, and environments. I am now actively exploring techniques that could enable more general deployment of robotics, including fundamental planning and learning approaches. However, I am a robotics researcher, not an embodied AI researcher now.
 
 **Professional Service**<br>
 Reviewer: RAL, ICRA, IROS, JMR.
