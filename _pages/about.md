@@ -23,7 +23,8 @@ I am now a robotics researcher at an EAI startup. Previously, I was a Postdoctor
 
 I completed my Ph.D. in the Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong in 2023, under Sam's supervision. During my Ph.D., I worked as a member of the [Bioinspired Robotics & Medical Technology Group (BMT)](https://biomedirobotics.com/). Before that, I obtained my bachelor's degree in mechanical and automotive engineering from Tsinghua University in 2017.
 
-My research interests mainly lie in robot manipulation, robot vision, and motion and path planning. Particularly, my research used to focus on manipulation of deformable objects in unstructured conditions of grasping, contacts, and environments. I am now actively exploring techniques that could enable more general deployment of robotics, including fundamental planning and learning approaches. 
+My research interests mainly lie in robot manipulation, robot vision, and motion and path planning. Particularly, my research used to focus on manipulation of deformable objects in unstructured conditions and sampling-based path/motion planning methods.
+I am now actively exploring techniques that could enable more general deployment of robotics, including fundamental planning and learning approaches. 
 
 <!---However, I am currently a robotics researcher, not an embodied AI researcher.--->
 
