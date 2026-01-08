@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am now a robotics researcher at an EAI startup. Previously, I was a postdoctoral fellow at the Multi-Scale Medical Robotics Center, Hong Kong, and also with the Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong, working with Prof. [Kwok Wai Samuel Au](https://biomedirobotics.com/au-kwok-wai-samuel/). 
+I am now a robotics researcher at an EAI startup. Previously, I was a postdoctoral fellow at the Multi-Scale Medical Robotics Center, Hong Kong, and the Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong, working with Prof. [Kwok Wai Samuel Au](https://biomedirobotics.com/au-kwok-wai-samuel/). 
 
 I completed my Ph.D. at CUHK in 2023, as a member of [Bioinspired Robotics & Medical Technology Group (BMT)](https://biomedirobotics.com/). I was visiting [SU Lab](https://cseweb.ucsd.edu/~haosu/) at UCSD in 2024. Before that, I obtained my B.E. in mechanical and automotive engineering from Tsinghua University.
 
