@@ -19,11 +19,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a robotics researcher at an EAI startup. Previously, I was a postdoctoral fellow at the Multi-Scale Medical Robotics Center, Hong Kong, and the Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong, working with Prof. [Kwok Wai Samuel Au](https://biomedirobotics.com/au-kwok-wai-samuel/). 
+I am a researcher&technical staff at an EAI startup. Previously, I was a postdoctoral fellow at the Multi-Scale Medical Robotics Center, Hong Kong, and the Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong, working with Prof. [Kwok Wai Samuel Au](https://biomedirobotics.com/au-kwok-wai-samuel/). 
 
 I completed my Ph.D. in the [Bioinspired Robotics & Medical Technology Group (BMT)](https://biomedirobotics.com/) at CUHK in 2023 and was visiting [SU Lab](https://cseweb.ucsd.edu/~haosu/) at UCSD in 2024. Before that, I obtained my B.E. in mechanical and automotive engineering from Tsinghua University.
 
-My research interests lie in robot manipulation, robot vision, and motion and path planning. In particular, I studied deformable object manipulation and optimal planning methods. Now I am actively exploring techniques that would unleash more potential of robotics.
+My research interests lie in robot manipulation, robot vision, and motion and path planning. In particular, I studied deformable object manipulation and optimal planning. Now I am actively exploring techniques that would unleash more potential of robotics.
 
 <!---However, I am currently a robotics researcher, not an embodied AI researcher.--->
 
