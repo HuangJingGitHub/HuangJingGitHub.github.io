@@ -28,7 +28,7 @@ My research interests lie in robot manipulation, robot vision, and motion and pa
 <!---However, I am currently a robotics researcher, not an embodied AI researcher.--->
 
 **Professional Service**<br>
-Reviewer: RAL, ICRA, IROS, TIE.
+Reviewer: IJRR, RAL, ICRA, IROS, TIE.
 
 <!-- [CV](https://drive.google.com/file/d/1s_Qe1WnfCbCJnpaWXKHnYQLrSlsy_3qI/view?usp=drive_link) / [GitHub](https://github.com/HuangJingGitHub) / [LinkedIn](https://linkedin.com/in/huangjingonly) --->
 
